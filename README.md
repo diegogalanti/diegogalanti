@@ -14,3 +14,4 @@ In 2011 I completely changed my career and worked for 10 years in IT consulting 
 In the end of 2021 I moved from São Paulo to Berlin with my wife when she got a really nice job offer. Check on her github! https://github.com/AlineLee 
 
 Since then I put a lot of effort on learning German 🙃 and decided to go back to software developing (with a lot of catching up to do 😅). I did the Berlin 42 Piscine (https://42berlin.de/), which was a great experience both to reconnect the software development wires inside my head and to meet super interesting people. 
+
