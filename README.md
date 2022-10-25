@@ -3,7 +3,7 @@ Hi there 👋
 My name is Diego Galanti Gallardo and:
 
 - 🌱 I’m currently learning Kotlin (https://kotlinlang.org/) with focus on <img src="https://user-images.githubusercontent.com/99219186/191023133-a94f4e88-53e5-4de9-96e1-9f4c7e26d2b7.png" height="17">
-- 🔭 I’m currently working on https://github.com/diegogalanti/ConnectingLine
+- 🔭 I’m currently working on https://github.com/diegogalanti/TournamentTracker
 - 😄 My pronouns are: He/Him/His
 - 📫 You can reach me on: dggalanti@hotmail.com
 
