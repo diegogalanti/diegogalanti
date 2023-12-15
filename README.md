@@ -5,7 +5,6 @@ My name is Diego Galanti Gallardo and:
 - I’m a QA Engineer at Veeam Software.
 - 🌱 I’m learning Kotlin (https://kotlinlang.org/) with focus on <img src="https://user-images.githubusercontent.com/99219186/191023133-a94f4e88-53e5-4de9-96e1-9f4c7e26d2b7.png" height="17">
 - 🔭 I’m currently working on https://github.com/diegogalanti/Minishell
-- 😄 My pronouns are: He/Him/His
 - 📫 You can reach me on: dggalanti@hotmail.com
 
 I graduated in Systems Analysis and Development in 2013 and worked from 2008 to 2011 as Mobile Developer with Java(mainly J2ME but also J2SE). Implemented improvements and fixes on a mobile data collection app that was used by a range of customers: from big fashion events to governamental fiscalization departments.
